@@ -1,0 +1,11 @@
+spring:
+  redis:
+    database: 0
+    host: 59.110.231.70
+    password: 5737034557ef5b8c02c0e46513b98f90
+    port: 6379
+    pool:
+      max-active: 8
+      max-wait: 1
+      min-idle: 0
+    timeout: 0
